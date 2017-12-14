@@ -1,0 +1,8 @@
+es:
+  activerecord:
+    errors:
+      models:
+        list:
+          attributes:
+            board::
+              required: 'debe existir'

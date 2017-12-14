@@ -1,0 +1,14 @@
+es:
+  activerecord:
+    errors:
+      models:
+        board:
+          attributes:
+            name:
+              blank: "no puede estar vacío"
+            description:
+              blank: 'no puede estar vacío'
+        list:
+          attributes:
+            board:
+              required: "debe existir"
